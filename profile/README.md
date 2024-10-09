@@ -1,2 +1,2 @@
-# This is a repo for MSP-xEN Group
-Commit and Update your Progress !
+# This is an organization for MSP-xEN Group
+Create Repo! Commit and Update your Progress !
